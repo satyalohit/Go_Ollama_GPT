@@ -1,4 +1,4 @@
-# 🤖 Enhanced Ollama GPT Chat with Web Search
+# 🤖  Ollama GPT Chat with Web Search
 
 A powerful Go-based chat application that combines Ollama's AI capabilities with real-time web search to provide informed and up-to-date responses.
 
